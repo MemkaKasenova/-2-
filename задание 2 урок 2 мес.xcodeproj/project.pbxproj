@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		9FE09EB7298E980000BC9B80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EB6298E980000BC9B80 /* main.swift */; };
+		9FE09EBE298E98A800BC9B80 /* Учащиеся.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EBD298E98A800BC9B80 /* Учащиеся.swift */; };
+		9FE09EC0298E990000BC9B80 /* Conference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EBF298E990000BC9B80 /* Conference.swift */; };
+		9FE09EC2298FE81B00BC9B80 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EC1298FE81B00BC9B80 /* Student.swift */; };
+		9FE09EC4298FE82800BC9B80 /* Schooler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE09EC3298FE82800BC9B80 /* Schooler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		9FE09EB3298E980000BC9B80 /* задание 2 урок 2 мес */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "задание 2 урок 2 мес"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE09EB6298E980000BC9B80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9FE09EBD298E98A800BC9B80 /* Учащиеся.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Учащиеся.swift"; sourceTree = "<group>"; };
+		9FE09EBF298E990000BC9B80 /* Conference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conference.swift; sourceTree = "<group>"; };
+		9FE09EC1298FE81B00BC9B80 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		9FE09EC3298FE82800BC9B80 /* Schooler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Schooler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				9FE09EB6298E980000BC9B80 /* main.swift */,
+				9FE09EBD298E98A800BC9B80 /* Учащиеся.swift */,
+				9FE09EBF298E990000BC9B80 /* Conference.swift */,
+				9FE09EC1298FE81B00BC9B80 /* Student.swift */,
+				9FE09EC3298FE82800BC9B80 /* Schooler.swift */,
 			);
 			path = "задание 2 урок 2 мес";
 			sourceTree = "<group>";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FE09EC0298E990000BC9B80 /* Conference.swift in Sources */,
 				9FE09EB7298E980000BC9B80 /* main.swift in Sources */,
+				9FE09EBE298E98A800BC9B80 /* Учащиеся.swift in Sources */,
+				9FE09EC2298FE81B00BC9B80 /* Student.swift in Sources */,
+				9FE09EC4298FE82800BC9B80 /* Schooler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
